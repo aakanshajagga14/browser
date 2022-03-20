@@ -1,2 +1,2 @@
-# browser
-This repository is about how to make your own browser
+# Browser
+This repository is about how to make your own browser with python.
